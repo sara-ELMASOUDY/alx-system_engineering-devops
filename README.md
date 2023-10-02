@@ -1,1 +1,1 @@
-this is project directory 
+README file 
